@@ -20,7 +20,7 @@
   },
   "forms": [
     {
-      "webhook_url": "https://discord.com/api/webhooks/1066054593139716116/kGp3mHH_GuBncBpD9yRAX9OjAJkao2aUJhoNmGb9fvWVaNPoP-naDCJyIbR77EOTPZPJ",
+      "webhook_url": "",
       "button": {
         "label": "📝Doldur",
         "style": 1
